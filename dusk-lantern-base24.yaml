@@ -1,0 +1,29 @@
+system: "base24"
+name: "Dusk Lantern"
+author: "Devis99"
+variant: "dark"
+palette:
+  base00: "#1d1c3a"  # dusk
+  base01: "#2b2a48"  # haze
+  base02: "#40356c"  # twilight
+  base03: "#9d9ab9"  # mist
+  base04: "#bea784"  # paper_dim
+  base05: "#f0d3a3"  # paper
+  base06: "#f9e5c3"  # paper_hi
+  base07: "#f9e5c3"  # paper_hi
+  base08: "#fd622d"  # koi
+  base09: "#ffa024"  # lantern
+  base0A: "#e7d355"  # flame
+  base0B: "#5dbca0"  # pond
+  base0C: "#55baba"  # glint
+  base0D: "#6ec6f7"  # lastlight
+  base0E: "#ff8ca3"  # lotus
+  base0F: "#8e5224"  # wick
+  base10: "#13122c"  # dusk_deep
+  base11: "#0b0a20"  # dusk_deeper
+  base12: "#ff936d"  # koi_hi
+  base13: "#f3e88f"  # flame_hi
+  base14: "#81d4ba"  # pond_hi
+  base15: "#83d5d4"  # glint_hi
+  base16: "#9cdaff"  # lastlight_hi
+  base17: "#ffb2bd"  # lotus_hi

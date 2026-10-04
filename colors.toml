@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Dusk Lantern - paper lanterns over a koi pond at dusk.
+# Each value names the material it comes from; see DESIGN.md.
+# Slot names are schema labels: 'red' is koi vermilion, 'green' and
+# 'cyan' are both pond water, 'orange' is the lantern itself.
+
+accent               = "#ffa024"  # lantern
+selection            = "#40356c"  # twilight
+muted                = "#9d9ab9"  # mist
+background           = "#1d1c3a"  # dusk
+dark_background      = "#13122c"  # dusk_deep
+darker_background    = "#0b0a20"  # dusk_deeper
+lighter_background   = "#2b2a48"  # haze
+foreground           = "#f0d3a3"  # paper
+dark_foreground      = "#bea784"  # paper_dim
+light_foreground     = "#f9e5c3"  # paper_hi
+bright_foreground    = "#f9e5c3"  # paper_hi
+selection_foreground = "#f9e5c3"  # paper_hi
+selection_background = "#40356c"  # twilight
+red                  = "#fd622d"  # koi
+orange               = "#ffa024"  # lantern
+yellow               = "#e7d355"  # flame
+green                = "#5dbca0"  # pond
+cyan                 = "#55baba"  # glint
+blue                 = "#6ec6f7"  # lastlight
+magenta              = "#ff8ca3"  # lotus
+brown                = "#8e5224"  # wick
+bright_red           = "#ff936d"  # koi_hi
+bright_yellow        = "#f3e88f"  # flame_hi
+bright_green         = "#81d4ba"  # pond_hi
+bright_cyan          = "#83d5d4"  # glint_hi
+bright_blue          = "#9cdaff"  # lastlight_hi
+bright_magenta       = "#ffb2bd"  # lotus_hi
+
+# Unfocused windows sit back in the haze instead of Omarchy's neutral grey default.
+hyprland_inactive_border = "rgba(2b2a4899)"  # haze
