@@ -1,21 +1,21 @@
-# Dusk Lantern Omarchy Theme
+# Obake Omarchy Theme
 
-An Omarchy theme of paper lanterns over a koi pond at dusk, haunted by the ghosts of Edo-period woodblock prints. Dusk-indigo surfaces, lantern-lit paper text and a single lantern-amber accent carry the desktop, while each wallpaper is one figure from a public-domain print glowing out of the evening sky.
+An Omarchy theme named for the obake, the shape-shifting ghosts of Japanese folklore: paper lanterns over a koi pond at dusk, haunted by the ghosts of Edo-period woodblock prints. Dusk-indigo surfaces, lantern-lit paper text and a single lantern-amber accent carry the desktop, while each wallpaper is one figure from a public-domain print glowing out of the evening sky.
 
 ## Preview
 
-![Dusk Lantern Omarchy theme preview](preview.png)
+![Obake Omarchy theme preview](preview.png)
 
 <table>
   <tr>
-    <td><img src="preview-unlock.png" alt="Dusk Lantern unlock screen with the lantern ghost"></td>
+    <td><img src="preview-unlock.png" alt="Obake unlock screen with the lantern ghost"></td>
   </tr>
 </table>
 
 ## Install
 
 ```bash
-omarchy theme install https://github.com/Devis99/omarchy-dusk-lantern-theme
+omarchy theme install https://github.com/Devis99/omarchy-obake-theme
 ```
 
 ## What's Included
@@ -25,11 +25,11 @@ omarchy theme install https://github.com/Devis99/omarchy-dusk-lantern-theme
 - Extra app themes for GTK, Vencord (Midnight), Cava and Zen.
 - Yaru Purple icons.
 - A 5-wallpaper set in `backgrounds/`, sources listed in `backgrounds/SOURCES.md`.
-- A Base24 palette export in `dusk-lantern-base24.yaml`.
+- A Base24 palette export in `obake-base24.yaml`.
 
 ## Palette
 
-Dusk Lantern is built from one scene: the indigo sky after sunset, a lit paper lantern, and the koi pond beneath it. The sky gives every surface, the lantern gives the one accent, and the pond gives the supporting colors: koi vermilion, lotus, pond teal, water glint and the last blue of the sky.
+Obake is built from one scene: the indigo sky after sunset, a lit paper lantern, and the koi pond beneath it. The sky gives every surface, the lantern gives the one accent, and the pond gives the supporting colors: koi vermilion, lotus, pond teal, water glint and the last blue of the sky.
 
 It is not a generic warm-on-dark palette. The ground is a tinted indigo rather than a neutral grey, there is no white anywhere, and terminal slots follow the scene instead of the rainbow: `red` is the koi, `orange` is the lantern, and `green` and `cyan` are both pond water.
 

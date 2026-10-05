@@ -1,6 +1,6 @@
 mode = "dark"
 
-# Dusk Lantern - paper lanterns over a koi pond at dusk.
+# Obake - paper lanterns over a koi pond at dusk, and the ghosts in them.
 # Each value names the material it comes from; see DESIGN.md.
 # Slot names are schema labels: 'red' is koi vermilion, 'green' and
 # 'cyan' are both pond water, 'orange' is the lantern itself.

@@ -1,4 +1,4 @@
-# Dusk Lantern — design notes
+# Obake — design notes
 
 Paper lanterns over a koi pond at dusk, haunted by the ghosts of Edo-period
 woodblock prints. The desktop is the hour after sunset: the sky has gone
@@ -127,7 +127,7 @@ soft-focus ghosts break the set's drawing style.
   amber as the accent ramp, and Midnight's moon on the home button.
 - **Cava:** the theme colours from pond blue and teal at the base to flame,
   lantern and koi at the top.
-- **Base24:** `dusk-lantern-base24.yaml` holds the same materials in Base24 slot
+- **Base24:** `obake-base24.yaml` holds the same materials in Base24 slot
   order. It is a reference export; no installed consumer reads it.
 
 ## Guardrails

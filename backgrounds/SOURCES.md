@@ -1,6 +1,6 @@
 # Wallpaper sources
 
-Each wallpaper is a figure cut from the scan below and recolored with the Dusk Lantern palette. All source works are in the public domain or released under CC0.
+Each wallpaper is a figure cut from the scan below and recolored with the Obake palette. All source works are in the public domain or released under CC0.
 
 | Wallpaper | Work | Source |
 |---|---|---|
