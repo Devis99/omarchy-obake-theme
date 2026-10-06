@@ -20,18 +20,18 @@ omarchy theme install https://github.com/Devis99/omarchy-obake-theme
 
 ## What's Included
 
-- Core Omarchy theme colors for Hyprland, the shell, terminals, btop, Neovim and other templated apps.
+- Core Omarchy theme colors: lantern amber on the focused window, and menus that select in ink on lit paper.
 - Plymouth unlock artwork with the lantern ghost.
-- Extra app themes for GTK, Vencord (Midnight), Cava and Zen.
+- Extra app themes for GTK, Vencord (Midnight), Cava, Zen, btop and cliamp.
 - Yaru Purple icons.
 - A 5-wallpaper set in `backgrounds/`, sources listed in `backgrounds/SOURCES.md`.
 - A Base24 palette export in `obake-base24.yaml`.
 
 ## Palette
 
-Obake is built from one scene: the indigo sky after sunset, a lit paper lantern, and the koi pond beneath it. The sky gives every surface, the lantern gives the one accent, and the pond gives the supporting colors: koi vermilion, lotus, pond teal, water glint and the last blue of the sky.
+Every colour comes from the wallpapers, which hold only two families of light: the lantern's warm one and the dusk's violet one. The koi, the lantern, its glow and its wick are measured at their peak in the prints; the cool colours are four lights of the same dusk, ghost fire, moonmist, dusk glow and a ghost's robe, never more saturated than the sky itself.
 
-It is not a generic warm-on-dark palette. The ground is a tinted indigo rather than a neutral grey, there is no white anywhere, and terminal slots follow the scene instead of the rainbow: `red` is the koi, `orange` is the lantern, and `green` and `cyan` are both pond water.
+It is not a generic warm-on-dark palette. The ground is the exact indigo the figures stand on, there is no white anywhere, and terminal slots follow the scene instead of the rainbow: `red` is the koi, `orange` is the lantern, and green, cyan, blue and magenta are all dusk.
 
 ## Wallpapers
 

@@ -1,0 +1,9 @@
+# cliamp theme - Obake
+# Installed by THPM to ~/.config/cliamp/themes/omarchy.toml
+# thpm:cliamp-use-native
+accent = "#fea22a"     # lantern: primary interactive
+bright_fg = "#f9e5c3"  # paper at the flame: primary text and time
+fg = "#9d9ab9"         # dusk mist: dim text and inactive elements
+green = "#c0abe7"     # onibi: playing indicator, spectrum lows
+yellow = "#ffc36a"    # glow: spectrum mids, warnings
+red = "#f56d2a"       # koi: spectrum highs, errors

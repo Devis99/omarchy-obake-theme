@@ -2,36 +2,37 @@ mode = "dark"
 
 # Obake - paper lanterns over a koi pond at dusk, and the ghosts in them.
 # Each value names the material it comes from; see DESIGN.md.
-# Slot names are schema labels: 'red' is koi vermilion, 'green' and
-# 'cyan' are both pond water, 'orange' is the lantern itself.
+# Only the two colour families in the wallpapers: the lantern's warm light and the dusk's
+# violet. Slot names are schema labels: 'red' is the koi, 'orange' the lantern, 'yellow' its
+# glow, and green, cyan, blue and magenta are four lights of the same dusk.
 
-accent               = "#ffa024"  # lantern
+accent               = "#fea22a"  # lantern
 selection            = "#40356c"  # twilight
 muted                = "#9d9ab9"  # mist
 background           = "#1d1c3a"  # dusk
 dark_background      = "#13122c"  # dusk_deep
 darker_background    = "#0b0a20"  # dusk_deeper
 lighter_background   = "#2b2a48"  # haze
-foreground           = "#f0d3a3"  # paper
+foreground           = "#e3c697"  # paper
 dark_foreground      = "#bea784"  # paper_dim
 light_foreground     = "#f9e5c3"  # paper_hi
 bright_foreground    = "#f9e5c3"  # paper_hi
 selection_foreground = "#f9e5c3"  # paper_hi
 selection_background = "#40356c"  # twilight
-red                  = "#fd622d"  # koi
-orange               = "#ffa024"  # lantern
-yellow               = "#e7d355"  # flame
-green                = "#5dbca0"  # pond
-cyan                 = "#55baba"  # glint
-blue                 = "#6ec6f7"  # lastlight
-magenta              = "#ff8ca3"  # lotus
-brown                = "#8e5224"  # wick
-bright_red           = "#ff936d"  # koi_hi
-bright_yellow        = "#f3e88f"  # flame_hi
-bright_green         = "#81d4ba"  # pond_hi
-bright_cyan          = "#83d5d4"  # glint_hi
-bright_blue          = "#9cdaff"  # lastlight_hi
-bright_magenta       = "#ffb2bd"  # lotus_hi
+red                  = "#f56d2a"  # koi
+orange               = "#fea22a"  # lantern
+yellow               = "#ffc36a"  # glow
+green                = "#c0abe7"  # onibi
+cyan                 = "#cfccf1"  # moonmist
+blue                 = "#9797d3"  # dusk_glow
+magenta              = "#c098c2"  # robe
+brown                = "#a3642a"  # wick
+bright_red           = "#faa684"  # koi_hi
+bright_yellow        = "#fedca7"  # glow_hi
+bright_green         = "#daccf7"  # onibi_hi
+bright_cyan          = "#e3e2f8"  # moonmist_hi
+bright_blue          = "#b8b8ea"  # dusk_glow_hi
+bright_magenta       = "#dcbbdd"  # robe_hi
 
 # Unfocused windows sit back in the haze instead of Omarchy's neutral grey default.
 hyprland_inactive_border = "rgba(2b2a4899)"  # haze

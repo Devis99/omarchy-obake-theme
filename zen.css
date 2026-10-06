@@ -2,9 +2,9 @@
     --thpm-bg: #1d1c3a;
     --thpm-surface: #2b2a48;
     --thpm-surface-raised: #13122c;
-    --thpm-fg: #f0d3a3;
+    --thpm-fg: #e3c697;
     --thpm-muted: #9d9ab9;
-    --thpm-accent: #ffa024;
+    --thpm-accent: #fea22a;
 
     --zen-colors-primary: var(--thpm-bg) !important;
     --zen-colors-secondary: var(--thpm-surface) !important;
