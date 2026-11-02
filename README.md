@@ -6,11 +6,7 @@ An Omarchy theme named for the obake, the shape-shifting ghosts of Japanese folk
 
 ![Obake Omarchy theme preview](preview.png)
 
-<table>
-  <tr>
-    <td><img src="preview-unlock.png" alt="Obake unlock screen with the lantern ghost"></td>
-  </tr>
-</table>
+![Obake unlock screen with the lantern ghost](preview-unlock.png)
 
 ## Install
 
